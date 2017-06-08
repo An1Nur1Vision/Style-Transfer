@@ -10,6 +10,13 @@ We're going use pre-trained VGG16 convolutional network that won the ImageNet co
 run `pip install -r requirements.txt` to install the necessary dependencies
 
 
+## Results
+
+- Base Image : ![](https://github.com/Ujjwal-9/Style-Transfer/blob/master/images/me.jpg?raw=true)
+- Style Image : ![](https://github.com/Ujjwal-9/Style-Transfer/blob/master/images/styles/wave.jpg?raw=true)
+- Result - tyle-Transfer : ![](https://github.com/Ujjwal-9/Style-Transfer/blob/master/images/Result/1.jpg?raw=true)
+
+
 ## Usage
 
 If it doesn't exist, create a file called ~/.keras/keras.json and make sure it looks like the following:
@@ -23,7 +30,7 @@ If it doesn't exist, create a file called ~/.keras/keras.json and make sure it l
    }
    ````
 
-Then you can run the code via typing `jupyter notebook` into terminal
+Then you can run the code via typing `jupyter notebook` into terminal.
 
 
 ## Credits
